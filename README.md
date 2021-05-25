@@ -19,9 +19,11 @@
 ## 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alextaymx&show_icons=true&theme=default" alt="abhisheknaiidu" />
+
+## 🔥 Streak stats
+
 <div align="center"> 
   
-## 🔥 Streak stats
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alextaymx)](https://git.io/streak-stats)
   
