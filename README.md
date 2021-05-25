@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Web developer | Data Science Student | Passionate Programmer.</h3>
  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=4+years%2B+of+coding;Always+learning+new+things"></a>
+   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=4+years%2B+of+coding;Always+learning+new+things"></a>
 </p>
 
 <div align="center">
