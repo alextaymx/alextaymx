@@ -26,12 +26,16 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
+  <p align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Alex's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alextaymx&show_icons=true&count_private=true&theme=default&hide_border=true" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Alex's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alextaymx&langs_count=8&layout=compact&theme=default&hide_border=true" /></a>
+ 
+  <p align="center"> 
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Alex's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alextaymx&langs_count=8&layout=compact&theme=default&hide_border=true" /></a>
+  </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alextaymx&show_icons=true&theme=default" alt="alextaymx" />
+
 
 ## 🔥 Streak stats
 
