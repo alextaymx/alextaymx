@@ -5,7 +5,10 @@
 
 <div align="center">
 <p> <img src="https://komarev.com/ghpvc/?username=alextaymx&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
-  
+ <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  </p>
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/alextaymx)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/alextaymx)](https://badges.pufler.dev)
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alextaymx" alt="alextaymx" /></a> </p>
