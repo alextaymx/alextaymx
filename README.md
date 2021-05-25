@@ -9,10 +9,12 @@
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/alextaymx)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/alextaymx)](https://badges.pufler.dev)
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alextaymx" alt="alextaymx" /></a> </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextaymx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
+📈 My GitHub Stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alextaymx&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!--
 **alextaymx/alextaymx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
