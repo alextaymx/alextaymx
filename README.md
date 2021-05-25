@@ -5,8 +5,9 @@
 
 <div align="center">
 <p> <img src="https://komarev.com/ghpvc/?username=alextaymx&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
+  
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/alextaymx)](https://badges.pufler.dev)
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alextaymx" alt="alextaymx" /></a> </p>
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 </div>
 ### Hi there 👋
