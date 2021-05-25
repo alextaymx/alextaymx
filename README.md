@@ -12,9 +12,7 @@
 
 </div>
 
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alextaymx)](https://git.io/streak-stats)
 
 📈 My GitHub Stats
 
