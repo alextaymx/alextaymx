@@ -19,6 +19,7 @@
 📈 My GitHub Stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=alextaymx&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alextaymx)](https://git.io/streak-stats)
 <!--
 **alextaymx/alextaymx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
