@@ -36,15 +36,18 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
+<details> 
+  <summary>🔥 Streak stats</summary>
+  <br/>
+  <div align="center"> 
+  
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alextaymx)](https://git.io/streak-stats)
 
-## 🔥 Streak stats
+  </div>
+</details>
 
-<div align="center"> 
-  
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alextaymx)](https://git.io/streak-stats)
-  
-</div>
+
 
 
 <!--
