@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alex Tay</h1>
 <h3 align="center">Full-stack Web developer | Data Science Student | Passionate Programmer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alextaymx&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
+
 
 <div align="center">
+<p> <img src="https://komarev.com/ghpvc/?username=alextaymx&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alextaymx" alt="alextaymx" /></a> </p>
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 </div>
 ### Hi there 👋
