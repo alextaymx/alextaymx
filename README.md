@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alex Tay</h1>
 <h3 align="center">Full-stack Web developer | Data Science Student | Passionate Programmer.</h3>
-
+ <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=4+years%2B+of+coding;Always+learning+new+things"></a>
+</p>
 
 
 <div align="center">
 <p> <img src="https://komarev.com/ghpvc/?username=alextaymx&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
- <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=4+years%2B+of+coding;Always+learning+new+things"></a>
-  </p>
+
  
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/alextaymx)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/alextaymx)](https://badges.pufler.dev)
