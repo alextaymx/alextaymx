@@ -5,7 +5,6 @@
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=4+years%2B+of+coding;Always+learning+new+things"></a>
 </p>
 
-
 <div align="center">
 <p> <img src="https://komarev.com/ghpvc/?username=alextaymx&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
 
