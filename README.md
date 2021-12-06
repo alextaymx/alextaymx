@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-<p> <img src="https://komarev.com/ghpvc/?username=alextaymx&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=alextaymx&label=Profile%20views&color=0e75b6&style=flat" alt="alextaymx" /> </p>
 
  
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/alextaymx)](https://badges.pufler.dev)
