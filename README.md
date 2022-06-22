@@ -10,6 +10,7 @@
 
  
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/alextaymx)](https://badges.pufler.dev)
+<img src="https://badges.pufler.dev/commits/yearly/alextaymx" />
 <!-- [![Commits Badge](https://badges.pufler.dev/commits/monthly/alextaymx)](https://badges.pufler.dev) -->
  
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alextaymx" alt="alextaymx" /></a> </p>
