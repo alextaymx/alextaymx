@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Tay</h1>
-<h3 align="center">Full-stack Web developer | Data Science Student | Passionate Programmer.</h3>
+<h3 align="center">Full-stack Web developer | Data Science Graduate | Passionate Programmer.</h3>
  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=6+years%2B+of+coding;Always+learning+new+things"></a>
