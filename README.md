@@ -19,6 +19,12 @@
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
+## 🌐 Find me around the web
+
+<p align="center">
+  <a href="https://alextay.vercel.app">🌍 Portfolio Website</a>
+</p>
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
